@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Build / packaging
+build/
+dist/
+*.bak
+*.orig
+
+# Virtual environment
+venv/
+env/
+ENV/
+/.venv
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Byte-compiled / cache
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# IDE & editor settings
+.vscode/
+.idea/
+*.swp
+
+# VS Code Python settings
+.vscode/settings.json
+
+# Django
+db.sqlite3
